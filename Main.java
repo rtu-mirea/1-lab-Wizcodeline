@@ -7,7 +7,7 @@ public class Main{
         Scanner in = new Scanner(System.in);
         Array arr = new Array();
 
-        while (num != 9) {
+        while (num != 5) {
             System.out.println("Enter operation number >");
             System.out.println("0. (Enter/Change) the size of the array");
             System.out.println("1. Random input of array numbers");
